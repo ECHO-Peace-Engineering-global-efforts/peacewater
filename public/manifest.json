@@ -1,7 +1,7 @@
 {
   "name": "Peacewater Next.js PWA Firebase",
   "short_name": "Peacewater Firebase App",
-  "description": "DEmo for peaceater via Next.js serverless PWA with Firebase and React Hooks",
+  "description": "Demo for peaceater via Next.js serverless PWA with Firebase and React Hooks",
   "theme_color": "#663399",
   "background_color": "#663399",
   "icons": [
